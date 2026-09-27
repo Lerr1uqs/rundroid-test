@@ -1,0 +1,563 @@
+schema = 1
+resource_id = "rundroid-test"
+version = "v1"
+
+[[asset]]
+id = "fixture/cases/dy-vmp-libencryptor/build/libEncryptor"
+path = "cases/dy-vmp-libencryptor/build/libEncryptor.so"
+abi = "arm64-v8a"
+size = 83928
+sha256 = "e8cdc23d52b38509342c8a84a16fe2b18e381064cd41435d166c6436cd9769ca"
+
+[[asset]]
+id = "fixture/cases/dy-vmp-libencryptor/build/libc++_shared"
+path = "cases/dy-vmp-libencryptor/build/libc++_shared.so"
+abi = "arm64-v8a"
+size = 919888
+sha256 = "56585249b76a3f2f3412477c569a6e19a3cccfa4ff6f1a829135ff966c9f605f"
+
+[[asset]]
+id = "fixture/cases/dy-vmp-libencryptor/build/libdexvmp"
+path = "cases/dy-vmp-libencryptor/build/libdexvmp.so"
+abi = "arm64-v8a"
+size = 492024
+sha256 = "0c8a58be920c8afb336f54b84cfbb23cb932086d6bee482a383e402c4c1ca29a"
+
+[[asset]]
+id = "fixture/cases/kimi-msstain/build/libandroid"
+path = "cases/kimi-msstain/build/libandroid.so"
+abi = "arm64-v8a"
+size = 57776
+sha256 = "a02c890eaf739688a7d36b86f978fc208b457b448de10063d2b6defc2bbaed20"
+
+[[asset]]
+id = "fixture/cases/kimi-msstain/build/libc++_shared"
+path = "cases/kimi-msstain/build/libc++_shared.so"
+abi = "arm64-v8a"
+size = 1292904
+sha256 = "4397241b4bd20a8e579bfb41d21107857e12985f6a01ca0c2a5f83380d1270b4"
+
+[[asset]]
+id = "fixture/cases/kimi-msstain/build/libmsstainsdk"
+path = "cases/kimi-msstain/build/libmsstainsdk.so"
+abi = "arm64-v8a"
+size = 70656
+sha256 = "926e223ffa8825c46331e97c045821970405b1765dec0d315ec88ba366f43f73"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libCtaApiLib"
+path = "cases/kimi-trustdevice/arm64-v8a/libCtaApiLib.so"
+abi = "arm64-v8a"
+size = 494080
+sha256 = "a8012b17a975a70528ca3679cd309725694174d208cc7f02436aefa935bdb3f5"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libEncryptorP"
+path = "cases/kimi-trustdevice/arm64-v8a/libEncryptorP.so"
+abi = "arm64-v8a"
+size = 83928
+sha256 = "45fd9913dc05cf9baf36aa83611fe59e4f0167a2eeea79e23e7935fd797209de"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libandroidx.graphics.path"
+path = "cases/kimi-trustdevice/arm64-v8a/libandroidx.graphics.path.so"
+abi = "arm64-v8a"
+size = 10096
+sha256 = "41e9a793c43a0f4fddb19e33f346bace464f30f888ba7b9eaf96294ea115bfb6"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libapminsighta"
+path = "cases/kimi-trustdevice/arm64-v8a/libapminsighta.so"
+abi = "arm64-v8a"
+size = 117136
+sha256 = "7bc6c754d2b4c5d1f63a538ca2701ea65a49ad817a3758c207ba93fab70fdffa"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libapminsightb"
+path = "cases/kimi-trustdevice/arm64-v8a/libapminsightb.so"
+abi = "arm64-v8a"
+size = 133800
+sha256 = "efadd1767a9b200efe98164eebf6aca61f95a09f9b8e66768344a6eee6c1df35"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libbarhopper_v3"
+path = "cases/kimi-trustdevice/arm64-v8a/libbarhopper_v3.so"
+abi = "arm64-v8a"
+size = 4946720
+sha256 = "ec09597e9eb3aee0eb55ae3366da0d4ba416f5aa35a1af0b3811f50ff46743a1"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libc++_shared"
+path = "cases/kimi-trustdevice/arm64-v8a/libc++_shared.so"
+abi = "arm64-v8a"
+size = 1292904
+sha256 = "4397241b4bd20a8e579bfb41d21107857e12985f6a01ca0c2a5f83380d1270b4"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libdatastore_shared_counter"
+path = "cases/kimi-trustdevice/arm64-v8a/libdatastore_shared_counter.so"
+abi = "arm64-v8a"
+size = 7112
+sha256 = "d3e48717c9aa147e0ab21063ba0e8e0211cabf8bf40b222640829519edbf58e1"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libflipped"
+path = "cases/kimi-trustdevice/arm64-v8a/libflipped.so"
+abi = "arm64-v8a"
+size = 7384
+sha256 = "31494063717f1e594b6a30795255164a0dafb5abdb1cbafe4375988448c50b84"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libimage_processing_util_jni"
+path = "cases/kimi-trustdevice/arm64-v8a/libimage_processing_util_jni.so"
+abi = "arm64-v8a"
+size = 32544
+sha256 = "f0e4611db0d6b68942d8ba6977519f3dd1cdbffa87b7fc16d8006696ba954af4"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libjutils"
+path = "cases/kimi-trustdevice/arm64-v8a/libjutils.so"
+abi = "arm64-v8a"
+size = 1524984
+sha256 = "ab2a0ad1a4fd056fd9116d3a76f767fc8b02e49c158936879cd4988d692e3a9a"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libliteavsdk"
+path = "cases/kimi-trustdevice/arm64-v8a/libliteavsdk.so"
+abi = "arm64-v8a"
+size = 8381384
+sha256 = "2642a4264be1355a895f549ca110b9fab9a877f473d61d1e7b8a97ac2976a3df"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libmmkv"
+path = "cases/kimi-trustdevice/arm64-v8a/libmmkv.so"
+abi = "arm64-v8a"
+size = 717088
+sha256 = "a3fea0fdcf78bda2c615d94b7131e4d53c6a4c3232963732ccc74b307298fd46"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libmsstainsdk"
+path = "cases/kimi-trustdevice/arm64-v8a/libmsstainsdk.so"
+abi = "arm64-v8a"
+size = 70656
+sha256 = "926e223ffa8825c46331e97c045821970405b1765dec0d315ec88ba366f43f73"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libqcloud_asr_realtime"
+path = "cases/kimi-trustdevice/arm64-v8a/libqcloud_asr_realtime.so"
+abi = "arm64-v8a"
+size = 365344
+sha256 = "3994e8eadf410a8d654ada3de1aa56be7092a086a0c6ef7a3c256d0748c8d2cc"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/librive-android"
+path = "cases/kimi-trustdevice/arm64-v8a/librive-android.so"
+abi = "arm64-v8a"
+size = 7780368
+sha256 = "2ac87f6f47b170a5622430f9a80fb3915e59639be10483b9ff6a4ebf729ab42d"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libsurface_util_jni"
+path = "cases/kimi-trustdevice/arm64-v8a/libsurface_util_jni.so"
+abi = "arm64-v8a"
+size = 4896
+sha256 = "6cb2eac3c68e6a82ce2a5ea5aba86749eb8c609914392e125f6cdfbc208992f8"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libtdcoreplugin"
+path = "cases/kimi-trustdevice/arm64-v8a/libtdcoreplugin.so"
+abi = "arm64-v8a"
+size = 106136
+sha256 = "bc9269a3cf4bec9d3ba5052e29c0e01a603394136ae08ea388a70cdeba2d101c"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libtrustdevice"
+path = "cases/kimi-trustdevice/arm64-v8a/libtrustdevice.so"
+abi = "arm64-v8a"
+size = 774008
+sha256 = "de37221eaa8871bce1fe21f8a1cee5c2818367ac4e7ecca477962e699ea3b23b"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libtxffmpeg"
+path = "cases/kimi-trustdevice/arm64-v8a/libtxffmpeg.so"
+abi = "arm64-v8a"
+size = 2091752
+sha256 = "463f2fb5105c8f1ced4bddcf86dab6d33d616b2cd9aeecea99a0ea03286774ee"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libtxsoundtouch"
+path = "cases/kimi-trustdevice/arm64-v8a/libtxsoundtouch.so"
+abi = "arm64-v8a"
+size = 241632
+sha256 = "e8ee316f140c0d28769a2c2a76a3dc347f33259df15886a82363915b5d54d306"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/arm64-v8a/libvolc_log"
+path = "cases/kimi-trustdevice/arm64-v8a/libvolc_log.so"
+abi = "arm64-v8a"
+size = 133832
+sha256 = "17bb7fbc27b6cb315cef86e1cbf4474a384d27ae14f6a1f08a5e164c34f2a19b"
+
+[[asset]]
+id = "fixture/cases/kimi-trustdevice/build/libnetd_client"
+path = "cases/kimi-trustdevice/build/libnetd_client.so"
+abi = "arm64-v8a"
+size = 5016
+sha256 = "855b5c9ada0a42f74a9774294d3ea863a58d76ff31a2647c38c1e3518448d28a"
+
+[[asset]]
+id = "fixture/cases/process-environ-profile/build/libenviron_probe"
+path = "cases/process-environ-profile/build/libenviron_probe.so"
+abi = "arm64-v8a"
+size = 6608
+sha256 = "1a86d42aaac1bd0a61417a8f297d361e4fa8f0809a8be640d2e07affde9bd20b"
+
+[[asset]]
+id = "fixture/cases/show_classes/build/min"
+path = "cases/show_classes/build/min.apk"
+abi = "arm64-v8a"
+size = 313
+sha256 = "b727caccb1899974af519c0ac7772aa64e44173bf3b85479b2c923a8f8fb5436"
+
+[[asset]]
+id = "fixture/cases/xhs-xyasf/build/libxyasf"
+path = "cases/xhs-xyasf/build/libxyasf.so"
+abi = "arm64-v8a"
+size = 621104
+sha256 = "cc0c63617d97d03e90aaf77ffc57ec2c86ccfe417ec39a845230c8c08e9382d0"
+
+[[asset]]
+id = "fixture/resources/apk-smoke/build/app"
+path = "resources/apk-smoke/build/app.apk"
+abi = "arm64-v8a"
+size = 12846
+sha256 = "c2414e25216ae8f7876d849ddd3a82f3c9057d75768c2a436a41843929dd74ae"
+
+[[asset]]
+id = "fixture/resources/apk-smoke/build/libapk_dep"
+path = "resources/apk-smoke/build/libapk_dep.so"
+abi = "arm64-v8a"
+size = 4752
+sha256 = "7707b8995a80cf20aff1ed131a90f326f3894658f4db19940e3fc3ee921a8688"
+
+[[asset]]
+id = "fixture/resources/apk-smoke/build/libapk_smoke"
+path = "resources/apk-smoke/build/libapk_smoke.so"
+abi = "arm64-v8a"
+size = 5032
+sha256 = "8a0df39bc9469b7fe7866ed860cdf4d6c3a1c18e7b8e88affdbcfc623c8b4f71"
+
+[[asset]]
+id = "fixture/resources/apk-smoke/build/unsigned"
+path = "resources/apk-smoke/build/unsigned.apk"
+abi = "arm64-v8a"
+size = 4362
+sha256 = "774b6e0f0dcb7edc6114f6cb9ab99508dcc4f463470f1c8d5ff5d636f4eb51c2"
+
+[[asset]]
+id = "fixture/resources/bootstrapprims/build/libbootstrapprims"
+path = "resources/bootstrapprims/build/libbootstrapprims.so"
+abi = "arm64-v8a"
+size = 10320
+sha256 = "b152313650fe672cd2cefc495bdbf61d1e9dde76dad84a647c80f17cca9a7421"
+
+[[asset]]
+id = "fixture/resources/crashdump/build/libcrashdump"
+path = "resources/crashdump/build/libcrashdump.so"
+abi = "arm64-v8a"
+size = 4688
+sha256 = "cdaefb4bbb69ad50916a368072ac368d4e32826cc369a42ed81ee3f3e361b12a"
+
+[[asset]]
+id = "fixture/resources/ctor/build/libctor"
+path = "resources/ctor/build/libctor.so"
+abi = "arm64-v8a"
+size = 5176
+sha256 = "df89066f4caedb2abf47caed148fd36b5ac3b5fc6265ddb0c213d55a48bd9b13"
+
+[[asset]]
+id = "fixture/resources/cycle/build/libcycle_a"
+path = "resources/cycle/build/libcycle_a.so"
+abi = "arm64-v8a"
+size = 4656
+sha256 = "830349b70eeb474ddb1f70f27513c9db2ea2bd019d50b98742a343a5daec571d"
+
+[[asset]]
+id = "fixture/resources/cycle/build/libcycle_b"
+path = "resources/cycle/build/libcycle_b.so"
+abi = "arm64-v8a"
+size = 6424
+sha256 = "0397584485e6f7184c08afbe51952181f99133d6d95c71a92cd3fea6768af4b9"
+
+[[asset]]
+id = "fixture/resources/cycle/build/libcycle_c"
+path = "resources/cycle/build/libcycle_c.so"
+abi = "arm64-v8a"
+size = 4520
+sha256 = "7bad5e18dee14add1f080ff80b7262e5f8fb8d4d1fa1eb19dadab79d5d3e0acc"
+
+[[asset]]
+id = "fixture/resources/dependency-cycle/build/libneeded_cycle_a"
+path = "resources/dependency-cycle/build/libneeded_cycle_a.so"
+abi = "arm64-v8a"
+size = 2592
+sha256 = "0418c4621225c752d89778ad4cbdc66f409a3cb2b9fe6ecb347b6a029c8f6c7b"
+
+[[asset]]
+id = "fixture/resources/dependency-cycle/build/libneeded_cycle_b"
+path = "resources/dependency-cycle/build/libneeded_cycle_b.so"
+abi = "arm64-v8a"
+size = 2592
+sha256 = "b99638e2bbb86c7e4ffc78303f09394a3c3ca9dbdc4bc055217b9b28716a0422"
+
+[[asset]]
+id = "fixture/resources/depgraph/build/libbase"
+path = "resources/depgraph/build/libbase.so"
+abi = "arm64-v8a"
+size = 4680
+sha256 = "838c1bf2a4b241525ba6b0087a4af0202ecb1596db9342a9ee5c361439c76fb6"
+
+[[asset]]
+id = "fixture/resources/depgraph/build/libchild"
+path = "resources/depgraph/build/libchild.so"
+abi = "arm64-v8a"
+size = 4848
+sha256 = "46cd5133b1353a8f295917e4fbbfda6c5693412d2c0a48860b9ee2d0c1d3d512"
+
+[[asset]]
+id = "fixture/resources/dlfcn/build/libaux"
+path = "resources/dlfcn/build/libaux.so"
+abi = "arm64-v8a"
+size = 4680
+sha256 = "b955ac71a5e2d5168a99434ff59ccc789061a00514c709f31d26afb38bf530bc"
+
+[[asset]]
+id = "fixture/resources/dlfcn/build/libbadctor"
+path = "resources/dlfcn/build/libbadctor.so"
+abi = "arm64-v8a"
+size = 4808
+sha256 = "ec5a6ae85de99749f1e363118122f63d19e5d94cb299b425b5c94872db15cfb1"
+
+[[asset]]
+id = "fixture/resources/dlfcn/build/libcross_task_loader"
+path = "resources/dlfcn/build/libcross_task_loader.so"
+abi = "arm64-v8a"
+size = 5840
+sha256 = "96ee3bedbcff495c927d3bf7b3cb5ab887f823a0f59096822414d4148bc206ac"
+
+[[asset]]
+id = "fixture/resources/dlfcn/build/libctorcall"
+path = "resources/dlfcn/build/libctorcall.so"
+abi = "arm64-v8a"
+size = 7344
+sha256 = "55eea84b5461dc396c870b3d1c30630e3141398c47d27a1d650a854b3a1ba70b"
+
+[[asset]]
+id = "fixture/resources/dlfcn/build/libgoodctor"
+path = "resources/dlfcn/build/libgoodctor.so"
+abi = "arm64-v8a"
+size = 4808
+sha256 = "421ff3fccccec9681659cab2d022c93333c4bf1fd747801b683163e7e1b821e3"
+
+[[asset]]
+id = "fixture/resources/dlfcn/build/libjnicheck"
+path = "resources/dlfcn/build/libjnicheck.so"
+abi = "arm64-v8a"
+size = 5104
+sha256 = "4a099675dfee7e4a537e53c909d347e7884bb7e2873da79bd0b91dc82c63ebc9"
+
+[[asset]]
+id = "fixture/resources/dlfcn/build/libmain"
+path = "resources/dlfcn/build/libmain.so"
+abi = "arm64-v8a"
+size = 5648
+sha256 = "3aa4efa421d2962126f79ebd4095df1e5c1ee7b98e42d6636a2b1c894ec31a15"
+
+[[asset]]
+id = "fixture/resources/dlfcn/build/libreenter"
+path = "resources/dlfcn/build/libreenter.so"
+abi = "arm64-v8a"
+size = 5912
+sha256 = "0106278b7c240a70b570999ce56b62863e53a5f55508839c7cf697972aa741da"
+
+[[asset]]
+id = "fixture/resources/fatal-lifecycle/build/libfatal_ctor"
+path = "resources/fatal-lifecycle/build/libfatal_ctor.so"
+abi = "arm64-v8a"
+size = 2376
+sha256 = "7534b1a5fbc52e579feb665ca0b64b76ab8f1118160c66d5f608d607761b819d"
+
+[[asset]]
+id = "fixture/resources/fatal-lifecycle/build/libfatal_fini"
+path = "resources/fatal-lifecycle/build/libfatal_fini.so"
+abi = "arm64-v8a"
+size = 2376
+sha256 = "49672307512abc8167c6f438a56b079c13e87bcc5a41a400e4382219f64b86ba"
+
+[[asset]]
+id = "fixture/resources/jnimin/build/libjnimin"
+path = "resources/jnimin/build/libjnimin.so"
+abi = "arm64-v8a"
+size = 5232
+sha256 = "0bd092bf02d59ef467faf8363ce0b1fab8a0d6ce6a90c4566e4792f5e0521f27"
+
+[[asset]]
+id = "fixture/resources/jninative/build/libjninative"
+path = "resources/jninative/build/libjninative.so"
+abi = "arm64-v8a"
+size = 10880
+sha256 = "5b0552a0cd8a2d0a55da9b1d664c1b31d088bd8aca875ab0ca134f618c28c85c"
+
+[[asset]]
+id = "fixture/resources/jninspect/build/libjninspect"
+path = "resources/jninspect/build/libjninspect.so"
+abi = "arm64-v8a"
+size = 6336
+sha256 = "6f9c3a9397ac96c61b845eab316adf6d7470d521e27a8a64bcbdf6e7cf8eecf4"
+
+[[asset]]
+id = "fixture/resources/jninspect/build/libjninspect_dup"
+path = "resources/jninspect/build/libjninspect_dup.so"
+abi = "arm64-v8a"
+size = 4872
+sha256 = "b928428dfe572497bbecf7b90776f12881dc92c444f5f0796062bacdee1b0a00"
+
+[[asset]]
+id = "fixture/resources/jnitest/build/libjnitest"
+path = "resources/jnitest/build/libjnitest.so"
+abi = "arm64-v8a"
+size = 23144
+sha256 = "9483e72abb4490a6c2d5c7820789f524e89d2a78d6eb5ff1301c1f52e436708d"
+
+[[asset]]
+id = "fixture/resources/lifecycle/build/liblife_a"
+path = "resources/lifecycle/build/liblife_a.so"
+abi = "arm64-v8a"
+size = 4064
+sha256 = "110af301631d387d84bb7dba79f16e8d3ff58cb2f4f69c695b55c4793084e4fc"
+
+[[asset]]
+id = "fixture/resources/lifecycle/build/liblife_b"
+path = "resources/lifecycle/build/liblife_b.so"
+abi = "arm64-v8a"
+size = 4064
+sha256 = "acb4d7816c69f63692666ddebe16e4de73f924a9a0311c47b8391b1613017e47"
+
+[[asset]]
+id = "fixture/resources/lifecycle/build/liblife_c"
+path = "resources/lifecycle/build/liblife_c.so"
+abi = "arm64-v8a"
+size = 3440
+sha256 = "d4b650e92d86c5a5b22c24734c452340ef6f62c257668442d35a1cb9045fcce5"
+
+[[asset]]
+id = "fixture/resources/lifecycle/build/liblife_d"
+path = "resources/lifecycle/build/liblife_d.so"
+abi = "arm64-v8a"
+size = 3376
+sha256 = "97869ed1120e217a612e68fd8dc1da405cced461ecdb211e1cf25526e987d3be"
+
+[[asset]]
+id = "fixture/resources/lifecycle/build/liblife_sibling"
+path = "resources/lifecycle/build/liblife_sibling.so"
+abi = "arm64-v8a"
+size = 3640
+sha256 = "98c78b0660537bc5b86a741b4cfd2df2474ef8ae7883030add5960776e522645"
+
+[[asset]]
+id = "fixture/resources/lifecycle/build/libreenter_a"
+path = "resources/lifecycle/build/libreenter_a.so"
+abi = "arm64-v8a"
+size = 3768
+sha256 = "a8b5ed2e2ed1748fa8772bf2161b1a1ca3baf8787f711b8644c58d553892bedd"
+
+[[asset]]
+id = "fixture/resources/lifecycle/build/libreenter_b"
+path = "resources/lifecycle/build/libreenter_b.so"
+abi = "arm64-v8a"
+size = 3080
+sha256 = "65aed89bc52e52082fc426674d2cc6b2be3dd97c97de0ea2a53880458dfcf9bb"
+
+[[asset]]
+id = "fixture/resources/lifecycle/build/libreenter_guard"
+path = "resources/lifecycle/build/libreenter_guard.so"
+abi = "arm64-v8a"
+size = 3376
+sha256 = "2806abbbdf2cd3a1d5da5b318a078b49f37d53a53838d7979b843e113a41a4a0"
+
+[[asset]]
+id = "fixture/resources/runcasefull/build/libruncasefull"
+path = "resources/runcasefull/build/libruncasefull.so"
+abi = "arm64-v8a"
+size = 5208
+sha256 = "62ad1ca13b898064168d230d80705f0d78cbe8cffda8d9e30a5da5ca11d32021"
+
+[[asset]]
+id = "fixture/resources/scene/build/libscene"
+path = "resources/scene/build/libscene.so"
+abi = "arm64-v8a"
+size = 6136
+sha256 = "cc05fbdf032278a79fc84f255975b4bdc35e3adca4dde7ce50e7112361317e20"
+
+[[asset]]
+id = "fixture/resources/signalsys/build/libsignalsys"
+path = "resources/signalsys/build/libsignalsys.so"
+abi = "arm64-v8a"
+size = 7624
+sha256 = "2246750dc4a470bf6b028f9dc84cf771306fca8918181c85f6ce510cde0c4c53"
+
+[[asset]]
+id = "fixture/resources/signalthread/build/libsignalthread"
+path = "resources/signalthread/build/libsignalthread.so"
+abi = "arm64-v8a"
+size = 6976
+sha256 = "4348fc8d05d9c143cb39e2917cf7782d8592cb7d5a877d739f4a70efe037c70f"
+
+[[asset]]
+id = "fixture/resources/smoke/build/libsmoke"
+path = "resources/smoke/build/libsmoke.so"
+abi = "arm64-v8a"
+size = 6616
+sha256 = "642e16285fc03978e19ba39da12d8f570ea3f4f776aad4206daaf3ca6e914aad"
+
+[[asset]]
+id = "fixture/resources/threadjoin/build/libthreadjoin"
+path = "resources/threadjoin/build/libthreadjoin.so"
+abi = "arm64-v8a"
+size = 6112
+sha256 = "9fde370fb08ba75241a7373ee5b62a51399514cb985da4cd7ee744fbb1b466f1"
+
+[[asset]]
+id = "fixture/resources/threadsync/build/libthreadsync"
+path = "resources/threadsync/build/libthreadsync.so"
+abi = "arm64-v8a"
+size = 12424
+sha256 = "5a07bfc6a741a4c26bf1002de26caab9752383ba742773bcaff11c29c85e79d4"
+
+[[asset]]
+id = "fixture/resources/threadsys/build/libthreadsys"
+path = "resources/threadsys/build/libthreadsys.so"
+abi = "arm64-v8a"
+size = 7496
+sha256 = "a1f77a258831168b7517247e8aca82a845a4ac26d0a575748e63465d9e769639"
+
+[[asset]]
+id = "fixture/resources/tls/build/libtls_after_bootstrap"
+path = "resources/tls/build/libtls_after_bootstrap.so"
+abi = "arm64-v8a"
+size = 2272
+sha256 = "e90fe79fd0b120cc5dae1fd8abd0e279e6161ffffc5363ef75c7f066dd04b6aa"
+
+[[asset]]
+id = "fixture/resources/tls-context-poc/build/libtls_context_poc"
+path = "resources/tls-context-poc/build/libtls_context_poc.so"
+abi = "arm64-v8a"
+size = 5976
+sha256 = "f0f1dfb017413d36cce43a9af370faa616e03f6c756d1d1a0e10dbfd19647501"
+
+[[asset]]
+id = "fixture/resources/tracing/build/libtracing"
+path = "resources/tracing/build/libtracing.so"
+abi = "arm64-v8a"
+size = 5096
+sha256 = "971391996f30bfc695eb833e9d2141f2cd646a5de8b18840a13f52f86236e7cb"
