@@ -3,6 +3,13 @@ resource_id = "rundroid-test"
 version = "v1"
 
 [[asset]]
+id = "fixture/cases/dy-vmp-libencryptor/build/ctf-38-7-0"
+path = "cases/dy-vmp-libencryptor/build/ctf-38-7-0.apk"
+abi = "arm64-v8a"
+size = 360477054
+sha256 = "c400ae7596f5eeaa3e3b942be1f0da0f1fe7835c6cb51618a898c3f09145b840"
+
+[[asset]]
 id = "fixture/cases/dy-vmp-libencryptor/build/libEncryptor"
 path = "cases/dy-vmp-libencryptor/build/libEncryptor.so"
 abi = "arm64-v8a"
