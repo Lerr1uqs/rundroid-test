@@ -412,8 +412,8 @@ sha256 = "0bd092bf02d59ef467faf8363ce0b1fab8a0d6ce6a90c4566e4792f5e0521f27"
 id = "fixture/resources/jninative/build/libjninative"
 path = "resources/jninative/build/libjninative.so"
 abi = "arm64-v8a"
-size = 10880
-sha256 = "5b0552a0cd8a2d0a55da9b1d664c1b31d088bd8aca875ab0ca134f618c28c85c"
+size = 17040
+sha256 = "1115a7d8ab9e68af0511917dde7870db24c694ce6baa4c2b2e58fbfe59e62a9e"
 
 [[asset]]
 id = "fixture/resources/jninspect/build/libjninspect"
