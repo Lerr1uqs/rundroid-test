@@ -430,6 +430,13 @@ size = 4872
 sha256 = "b928428dfe572497bbecf7b90776f12881dc92c444f5f0796062bacdee1b0a00"
 
 [[asset]]
+id = "fixture/resources/jnisectionless/build/libjnisectionless"
+path = "resources/jnisectionless/build/libjnisectionless.so"
+abi = "arm64-v8a"
+size = 5464
+sha256 = "28f043981d6bf84db4f5e75a47994b132d83b7eeb23987cccf8e62faf63e2d7b"
+
+[[asset]]
 id = "fixture/resources/jnitest/build/libjnitest"
 path = "resources/jnitest/build/libjnitest.so"
 abi = "arm64-v8a"
