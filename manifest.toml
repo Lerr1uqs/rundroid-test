@@ -406,7 +406,7 @@ id = "fixture/resources/jnicoreapi/build/libjnicoreapi"
 path = "resources/jnicoreapi/build/libjnicoreapi.so"
 abi = "arm64-v8a"
 size = 27680
-sha256 = "999438471c2f544558693bdaa5edbf39827469cdd741a51dc4f8327d6d4cb68a"
+sha256 = "b45c8571d6227bd2c2dfea2e2233fec94794af9bb0267eea5f24288d804e5b11"
 
 [[asset]]
 id = "fixture/resources/jnimin/build/libjnimin"
