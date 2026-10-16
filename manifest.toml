@@ -402,6 +402,13 @@ size = 2376
 sha256 = "49672307512abc8167c6f438a56b079c13e87bcc5a41a400e4382219f64b86ba"
 
 [[asset]]
+id = "fixture/resources/fcntllock/build/libfcntllock"
+path = "resources/fcntllock/build/libfcntllock.so"
+abi = "arm64-v8a"
+size = 7240
+sha256 = "d8f14e07e75fefb7b56ddf4ab93da345bfd96793edb839e962441a4d0a7b6867"
+
+[[asset]]
 id = "fixture/resources/jnicoreapi/build/libjnicoreapi"
 path = "resources/jnicoreapi/build/libjnicoreapi.so"
 abi = "arm64-v8a"
