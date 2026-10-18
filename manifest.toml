@@ -556,6 +556,13 @@ size = 6112
 sha256 = "9fde370fb08ba75241a7373ee5b62a51399514cb985da4cd7ee744fbb1b466f1"
 
 [[asset]]
+id = "fixture/resources/threadquantum/build/libthreadquantum"
+path = "resources/threadquantum/build/libthreadquantum.so"
+abi = "arm64-v8a"
+size = 16688
+sha256 = "1fb3a17d1f1d02481bbfcf2ec8457a2f8998cc3e2204e36086448b06ded43a91"
+
+[[asset]]
 id = "fixture/resources/threadsync/build/libthreadsync"
 path = "resources/threadsync/build/libthreadsync.so"
 abi = "arm64-v8a"
