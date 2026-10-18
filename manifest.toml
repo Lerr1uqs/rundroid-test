@@ -356,15 +356,15 @@ sha256 = "96ee3bedbcff495c927d3bf7b3cb5ab887f823a0f59096822414d4148bc206ac"
 id = "fixture/resources/dlfcn/build/libctorcall"
 path = "resources/dlfcn/build/libctorcall.so"
 abi = "arm64-v8a"
-size = 7344
-sha256 = "55eea84b5461dc396c870b3d1c30630e3141398c47d27a1d650a854b3a1ba70b"
+size = 7576
+sha256 = "c44de370deebabf6134ee830febf03424270c71cbf0a98156e94cc72af2220ea"
 
 [[asset]]
 id = "fixture/resources/dlfcn/build/libentryhook"
 path = "resources/dlfcn/build/libentryhook.so"
 abi = "arm64-v8a"
-size = 7784
-sha256 = "0bb023e90326b89300b6846c4c868f0ba08cdbea913a442816603fdb180287d5"
+size = 8048
+sha256 = "27e4a7492ca899043f25fbc357f965ce3aa77a92e8d008525aebaf4fe9d11973"
 
 [[asset]]
 id = "fixture/resources/dlfcn/build/libgoodctor"
