@@ -363,8 +363,8 @@ sha256 = "c44de370deebabf6134ee830febf03424270c71cbf0a98156e94cc72af2220ea"
 id = "fixture/resources/dlfcn/build/libentryhook"
 path = "resources/dlfcn/build/libentryhook.so"
 abi = "arm64-v8a"
-size = 8048
-sha256 = "27e4a7492ca899043f25fbc357f965ce3aa77a92e8d008525aebaf4fe9d11973"
+size = 8304
+sha256 = "4653a125c7fbfbceff1eb7e2303865686900556bde064d39aa49dfe157883ddc"
 
 [[asset]]
 id = "fixture/resources/dlfcn/build/libgoodctor"
