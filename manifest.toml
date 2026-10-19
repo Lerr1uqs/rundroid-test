@@ -3,6 +3,13 @@ resource_id = "rundroid-test"
 version = "v1"
 
 [[asset]]
+id = "fixture/resources/artmethodfacade/build/libartmethodfacade"
+path = "resources/artmethodfacade/build/libartmethodfacade.so"
+abi = "arm64-v8a"
+size = 28080
+sha256 = "f6136a5d6f5c38827450b6e8eff1d1bf61d36f3e73fc3cbd15db2ad74965a177"
+
+[[asset]]
 id = "fixture/cases/dy-vmp-libencryptor/build/ctf-38-7-0"
 path = "cases/dy-vmp-libencryptor/build/ctf-38-7-0.apk"
 abi = "arm64-v8a"
