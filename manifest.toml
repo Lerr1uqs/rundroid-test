@@ -3,13 +3,6 @@ resource_id = "rundroid-test"
 version = "v1"
 
 [[asset]]
-id = "fixture/resources/artmethodfacade/build/libartmethodfacade"
-path = "resources/artmethodfacade/build/libartmethodfacade.so"
-abi = "arm64-v8a"
-size = 28080
-sha256 = "f6136a5d6f5c38827450b6e8eff1d1bf61d36f3e73fc3cbd15db2ad74965a177"
-
-[[asset]]
 id = "fixture/cases/dy-vmp-libencryptor/build/ctf-38-7-0"
 path = "cases/dy-vmp-libencryptor/build/ctf-38-7-0.apk"
 abi = "arm64-v8a"
@@ -267,6 +260,13 @@ path = "resources/apk-smoke/build/unsigned.apk"
 abi = "arm64-v8a"
 size = 4362
 sha256 = "774b6e0f0dcb7edc6114f6cb9ab99508dcc4f463470f1c8d5ff5d636f4eb51c2"
+
+[[asset]]
+id = "fixture/resources/artmethodfacade/build/libartmethodfacade"
+path = "resources/artmethodfacade/build/libartmethodfacade.so"
+abi = "arm64-v8a"
+size = 28080
+sha256 = "f6136a5d6f5c38827450b6e8eff1d1bf61d36f3e73fc3cbd15db2ad74965a177"
 
 [[asset]]
 id = "fixture/resources/bootstrapprims/build/libbootstrapprims"
@@ -559,8 +559,8 @@ sha256 = "4348fc8d05d9c143cb39e2917cf7782d8592cb7d5a877d739f4a70efe037c70f"
 id = "fixture/resources/smoke/build/libsmoke"
 path = "resources/smoke/build/libsmoke.so"
 abi = "arm64-v8a"
-size = 6616
-sha256 = "642e16285fc03978e19ba39da12d8f570ea3f4f776aad4206daaf3ca6e914aad"
+size = 8168
+sha256 = "4981433bf02a9ecb7314cc0d16ba67907f4f91a779564b7bcbbc171127fd1603"
 
 [[asset]]
 id = "fixture/resources/threadjoin/build/libthreadjoin"
