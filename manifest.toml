@@ -566,8 +566,8 @@ sha256 = "4981433bf02a9ecb7314cc0d16ba67907f4f91a779564b7bcbbc171127fd1603"
 id = "fixture/resources/threadfreeze/build/libthreadfreeze"
 path = "resources/threadfreeze/build/libthreadfreeze.so"
 abi = "arm64-v8a"
-size = 15976
-sha256 = "6f10e1481bf5c26d2d90c49333ff152b74b45d84bf9723dbf2c7b23371ada4fc"
+size = 16032
+sha256 = "f1e758770b5a806cac6a34efaa58eb5bfa17e167e618b12f2bddb6865b95bad9"
 
 [[asset]]
 id = "fixture/resources/threadjoin/build/libthreadjoin"
